@@ -1,8 +1,8 @@
-# 🚗 Electric Vehicle Demand Forecasting (ADS Lab 5)
+# 🚗 Electric Vehicle Demand Forecasting
 
 ## 📌 Project Overview
 
-This project forecasts **Electric Vehicle (EV) demand** using historical transaction data, synthetic data generation, and machine learning models. It is part of **Advanced Data Science Lab 5** coursework.
+This project forecasts **Electric Vehicle (EV) demand** using historical transaction data, synthetic data generation, and machine learning models.
 
 The project helps policymakers, manufacturers, and urban planners understand future EV demand trends (2025-2026) for better infrastructure & policy planning.
 
@@ -84,10 +84,6 @@ jupyter notebook ADS_Lab5.ipynb
 - Forecasted EV demand (2025-2026) using **Linear, Ridge, and ARIMA** models
 
 ---
-
-## 📜 License
-
-This project is licensed under the **MIT License** – free to use and modify.
 
 ---
 
